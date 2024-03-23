@@ -45,7 +45,7 @@
 - `REPLY_MARKUP` (bool and optional) For copy reply markup
 
 ---
-
+- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Bot Commands
 ```
 /start : start the bot
